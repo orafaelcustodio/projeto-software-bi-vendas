@@ -1,0 +1,361 @@
+﻿pedido_id,data_venda,produto,categoria,regiao,canal_venda,forma_pagamento,quantidade,preco_unitario,receita_total
+P0266,2025-01-01,Mochila,Acessórios,Centro-Oeste,Site,Boleto,3,172.53,517.59
+P0074,2025-01-01,Cadeira,Móveis,Norte,Loja Física,Boleto,3,619.86,1859.58
+P0040,2025-01-02,Luminária,Casa,Centro-Oeste,Marketplace,Pix,3,128.19,384.57
+P0005,2025-01-04,Teclado,Eletrônicos,Sul,Site,Pix,4,146.17,584.68
+P0194,2025-01-09,Teclado,Eletrônicos,Centro-Oeste,Loja Física,Cartão,3,139.26,417.78
+P0324,2025-01-09,Mesa,Móveis,Centro-Oeste,Loja Física,Pix,3,873.64,2620.92
+P0265,2025-01-09,Camiseta,Vestuário,Sul,Marketplace,Pix,5,70.84,354.2
+P0193,2025-01-14,Teclado,Eletrônicos,Sul,Loja Física,Pix,1,146.6,146.6
+P0287,2025-01-14,Calça Jeans,Vestuário,Centro-Oeste,Loja Física,Cartão,2,159.98,319.96
+P0258,2025-01-14,Luminária,Casa,Nordeste,Site,Pix,1,118.01,118.01
+P0130,2025-01-17,Monitor,Eletrônicos,Centro-Oeste,Site,Boleto,3,929.8,2789.4
+P0174,2025-01-18,Mochila,Acessórios,Sudeste,Marketplace,Pix,3,186.69,560.07
+P0275,2025-01-19,Camiseta,Vestuário,Sudeste,Loja Física,Pix,2,67.6,135.2
+P0344,2025-01-19,Luminária,Casa,Nordeste,Site,Cartão,4,113.98,455.92
+P0273,2025-01-19,Cadeira,Móveis,Sul,Site,Pix,2,602.56,1205.12
+P0320,2025-01-21,Notebook,Eletrônicos,Nordeste,Marketplace,Boleto,1,3014.16,3014.16
+P0281,2025-01-22,Calça Jeans,Vestuário,Centro-Oeste,Marketplace,Boleto,3,162.94,488.82
+P0069,2025-01-23,Calça Jeans,Vestuário,Norte,Loja Física,Boleto,4,147.24,588.96
+P0007,2025-01-23,Calça Jeans,Vestuário,Centro-Oeste,Site,Boleto,4,160.93,643.72
+P0120,2025-01-24,Notebook,Eletrônicos,Sul,Loja Física,Pix,5,3093.57,15467.85
+P0078,2025-01-24,Monitor,Eletrônicos,Sudeste,Marketplace,Pix,4,916.02,3664.08
+P0339,2025-01-26,Camiseta,Vestuário,Sul,Site,Cartão,5,66.93,334.65
+P0255,2025-01-27,Camiseta,Vestuário,Norte,Site,Boleto,4,74.19,296.76
+P0316,2025-01-27,Mochila,Acessórios,Norte,Marketplace,Cartão,5,171.21,856.05
+P0216,2025-01-27,Teclado,Eletrônicos,Sudeste,Loja Física,Cartão,2,156.11,312.22
+P0035,2025-01-28,Camiseta,Vestuário,Nordeste,Site,Cartão,1,65.08,65.08
+P0163,2025-01-29,Cadeira,Móveis,Sul,Site,Boleto,3,636.98,1910.94
+P0044,2025-01-30,Fone Bluetooth,Eletrônicos,Sudeste,Loja Física,Cartão,1,242.93,242.93
+P0282,2025-01-30,Mouse,Eletrônicos,Sul,Site,Cartão,4,78.25,313.0
+P0206,2025-01-31,Mochila,Acessórios,Sudeste,Marketplace,Pix,5,181.78,908.9
+P0127,2025-01-31,Mochila,Acessórios,Sul,Loja Física,Cartão,1,192.89,192.89
+P0330,2025-02-01,Calça Jeans,Vestuário,Norte,Marketplace,Boleto,2,160.48,320.96
+P0353,2025-02-01,Camiseta,Vestuário,Sul,Marketplace,Boleto,1,69.61,69.61
+P0195,2025-02-02,Garrafa Térmica,Casa,Norte,Loja Física,Cartão,4,99.23,396.92
+P0233,2025-02-04,Garrafa Térmica,Casa,Nordeste,Loja Física,Cartão,4,97.0,388.0
+P0065,2025-02-05,Cadeira,Móveis,Centro-Oeste,Loja Física,Boleto,3,664.71,1994.13
+P0031,2025-02-06,Calça Jeans,Vestuário,Sudeste,Marketplace,Cartão,1,153.06,153.06
+P0306,2025-02-07,Calça Jeans,Vestuário,Centro-Oeste,Marketplace,Pix,1,151.25,151.25
+P0158,2025-02-08,Garrafa Térmica,Casa,Centro-Oeste,Loja Física,Cartão,3,92.55,277.65
+P0243,2025-02-11,Mochila,Acessórios,Nordeste,Loja Física,Boleto,2,192.0,384.0
+P0259,2025-02-11,Mesa,Móveis,Sudeste,Loja Física,Boleto,2,785.83,1571.66
+P0205,2025-02-13,Mouse,Eletrônicos,Nordeste,Site,Boleto,4,74.84,299.36
+P0294,2025-02-14,Mouse,Eletrônicos,Centro-Oeste,Loja Física,Pix,3,78.7,236.1
+P0018,2025-02-16,Notebook,Eletrônicos,Sul,Loja Física,Pix,1,3022.25,3022.25
+P0003,2025-02-17,Monitor,Eletrônicos,Sudeste,Loja Física,Cartão,2,900.77,1801.54
+P0242,2025-02-18,Fone Bluetooth,Eletrônicos,Norte,Site,Pix,4,222.06,888.24
+P0034,2025-02-18,Mouse,Eletrônicos,Centro-Oeste,Marketplace,Boleto,4,78.14,312.56
+P0185,2025-02-20,Garrafa Térmica,Casa,Nordeste,Site,Boleto,5,93.6,468.0
+P0162,2025-02-21,Garrafa Térmica,Casa,Sudeste,Site,Pix,2,97.95,195.9
+P0010,2025-02-21,Luminária,Casa,Nordeste,Site,Pix,3,119.11,357.33
+P0006,2025-02-22,Mouse,Eletrônicos,Nordeste,Loja Física,Pix,4,74.84,299.36
+P0121,2025-02-22,Notebook,Eletrônicos,Centro-Oeste,Marketplace,Pix,5,3089.58,15447.9
+P0002,2025-02-22,Camiseta,Vestuário,Centro-Oeste,Site,Cartão,5,65.37,326.85
+P0140,2025-02-23,Teclado,Eletrônicos,Centro-Oeste,Marketplace,Boleto,3,147.88,443.64
+P0208,2025-02-23,Mochila,Acessórios,Centro-Oeste,Site,Cartão,5,171.73,858.65
+P0053,2025-02-24,Calça Jeans,Vestuário,Nordeste,Loja Física,Cartão,5,151.18,755.9
+P0263,2025-02-26,Cadeira,Móveis,Sudeste,Site,Pix,2,629.32,1258.64
+P0057,2025-02-27,Mouse,Eletrônicos,Nordeste,Loja Física,Boleto,2,80.58,161.16
+P0147,2025-02-28,Garrafa Térmica,Casa,Sul,Marketplace,Boleto,1,97.25,97.25
+P0099,2025-02-28,Mochila,Acessórios,Nordeste,Marketplace,Cartão,2,178.99,357.98
+P0142,2025-03-01,Luminária,Casa,Sudeste,Loja Física,Boleto,5,126.24,631.2
+P0134,2025-03-05,Garrafa Térmica,Casa,Nordeste,Loja Física,Boleto,3,98.04,294.12
+P0156,2025-03-06,Fone Bluetooth,Eletrônicos,Sudeste,Marketplace,Cartão,5,223.82,1119.1
+P0190,2025-03-06,Mochila,Acessórios,Norte,Site,Boleto,2,167.58,335.16
+P0050,2025-03-09,Mesa,Móveis,Nordeste,Marketplace,Cartão,1,901.58,901.58
+P0315,2025-03-10,Cadeira,Móveis,Nordeste,Site,Pix,3,677.44,2032.32
+P0150,2025-03-11,Mouse,Eletrônicos,Centro-Oeste,Marketplace,Boleto,3,83.49,250.47
+P0016,2025-03-13,Monitor,Eletrônicos,Norte,Marketplace,Boleto,5,905.61,4528.05
+P0192,2025-03-16,Teclado,Eletrônicos,Sul,Site,Boleto,5,144.02,720.1
+P0230,2025-03-16,Cadeira,Móveis,Sul,Loja Física,Cartão,2,616.04,1232.08
+P0058,2025-03-17,Luminária,Casa,Nordeste,Site,Pix,2,111.2,222.4
+P0298,2025-03-20,Cadeira,Móveis,Sul,Marketplace,Boleto,2,614.84,1229.68
+P0129,2025-03-22,Notebook,Eletrônicos,Norte,Marketplace,Pix,4,3174.66,12698.64
+P0341,2025-03-22,Luminária,Casa,Sul,Marketplace,Pix,4,119.57,478.28
+P0146,2025-03-23,Cadeira,Móveis,Centro-Oeste,Site,Cartão,5,599.42,2997.1
+P0133,2025-03-26,Cadeira,Móveis,Norte,Marketplace,Pix,5,675.89,3379.45
+P0076,2025-03-28,Camiseta,Vestuário,Norte,Marketplace,Cartão,1,67.58,67.58
+P0012,2025-03-29,Fone Bluetooth,Eletrônicos,Centro-Oeste,Marketplace,Boleto,2,217.61,435.22
+P0239,2025-03-30,Notebook,Eletrônicos,Centro-Oeste,Loja Física,Boleto,2,3306.3,6612.6
+P0222,2025-03-31,Teclado,Eletrônicos,Sul,Loja Física,Boleto,4,150.78,603.12
+P0349,2025-03-31,Mochila,Acessórios,Norte,Marketplace,Cartão,4,189.42,757.68
+P0081,2025-04-01,Calça Jeans,Vestuário,Norte,Site,Cartão,5,159.09,795.45
+P0231,2025-04-01,Camiseta,Vestuário,Norte,Loja Física,Pix,4,69.6,278.4
+P0297,2025-04-04,Teclado,Eletrônicos,Sudeste,Site,Boleto,4,150.07,600.28
+P0122,2025-04-05,Notebook,Eletrônicos,Centro-Oeste,Site,Cartão,3,3425.82,10277.46
+P0348,2025-04-06,Notebook,Eletrônicos,Norte,Loja Física,Cartão,3,3348.87,10046.61
+P0036,2025-04-09,Monitor,Eletrônicos,Centro-Oeste,Site,Pix,5,892.6,4463.0
+P0333,2025-04-09,Monitor,Eletrônicos,Sul,Marketplace,Pix,3,908.36,2725.08
+P0229,2025-04-10,Mesa,Móveis,Sul,Site,Cartão,3,880.92,2642.76
+P0102,2025-04-12,Mouse,Eletrônicos,Sul,Site,Boleto,5,82.44,412.2
+P0098,2025-04-13,Notebook,Eletrônicos,Sul,Marketplace,Boleto,5,3022.02,15110.1
+P0307,2025-04-15,Mesa,Móveis,Nordeste,Loja Física,Pix,5,801.54,4007.7
+P0059,2025-04-18,Camiseta,Vestuário,Nordeste,Loja Física,Pix,2,71.87,143.74
+P0015,2025-04-19,Camiseta,Vestuário,Centro-Oeste,Site,Pix,4,68.83,275.32
+P0189,2025-04-19,Camiseta,Vestuário,Sudeste,Marketplace,Cartão,5,75.28,376.4
+P0095,2025-04-19,Garrafa Térmica,Casa,Centro-Oeste,Marketplace,Pix,3,92.53,277.59
+P0247,2025-04-20,Mesa,Móveis,Sul,Site,Cartão,4,808.11,3232.44
+P0191,2025-04-21,Monitor,Eletrônicos,Norte,Site,Pix,3,939.51,2818.53
+P0262,2025-04-21,Teclado,Eletrônicos,Norte,Loja Física,Pix,5,160.57,802.85
+P0218,2025-04-21,Fone Bluetooth,Eletrônicos,Sudeste,Marketplace,Boleto,1,224.3,224.3
+P0228,2025-04-24,Mesa,Móveis,Sudeste,Loja Física,Boleto,2,792.39,1584.78
+P0355,2025-04-24,Monitor,Eletrônicos,Centro-Oeste,Loja Física,Boleto,2,896.86,1793.72
+P0097,2025-04-25,Camiseta,Vestuário,Sudeste,Site,Cartão,1,73.15,73.15
+P0292,2025-04-25,Mouse,Eletrônicos,Sul,Marketplace,Cartão,2,83.74,167.48
+P0064,2025-04-27,Monitor,Eletrônicos,Centro-Oeste,Marketplace,Pix,1,923.04,923.04
+P0119,2025-04-27,Mesa,Móveis,Norte,Site,Pix,2,823.11,1646.22
+P0343,2025-04-29,Fone Bluetooth,Eletrônicos,Sul,Marketplace,Cartão,1,245.21,245.21
+P0131,2025-04-30,Cadeira,Móveis,Sul,Marketplace,Cartão,5,666.76,3333.8
+P0077,2025-05-01,Camiseta,Vestuário,Sul,Site,Cartão,3,68.92,206.76
+P0270,2025-05-04,Calça Jeans,Vestuário,Nordeste,Site,Cartão,1,171.96,171.96
+P0313,2025-05-04,Monitor,Eletrônicos,Sudeste,Marketplace,Pix,5,905.18,4525.9
+P0114,2025-05-05,Cadeira,Móveis,Norte,Loja Física,Pix,5,655.47,3277.35
+P0080,2025-05-05,Teclado,Eletrônicos,Sudeste,Marketplace,Cartão,1,164.21,164.21
+P0108,2025-05-06,Mouse,Eletrônicos,Sul,Marketplace,Boleto,3,87.43,262.29
+P0357,2025-05-07,Camiseta,Vestuário,Sudeste,Loja Física,Pix,5,76.4,382.0
+P0062,2025-05-08,Cadeira,Móveis,Sudeste,Marketplace,Cartão,2,700.28,1400.56
+P0351,2025-05-08,Notebook,Eletrônicos,Centro-Oeste,Marketplace,Pix,3,3234.6,9703.8
+P0116,2025-05-09,Monitor,Eletrônicos,Nordeste,Site,Boleto,1,959.82,959.82
+P0096,2025-05-10,Mouse,Eletrônicos,Norte,Site,Pix,4,76.06,304.24
+P0221,2025-05-11,Cadeira,Móveis,Centro-Oeste,Loja Física,Pix,3,628.79,1886.37
+P0288,2025-05-15,Cadeira,Móveis,Norte,Marketplace,Boleto,4,638.92,2555.68
+P0022,2025-05-15,Fone Bluetooth,Eletrônicos,Sudeste,Loja Física,Pix,2,237.19,474.38
+P0056,2025-05-15,Teclado,Eletrônicos,Centro-Oeste,Loja Física,Cartão,4,155.78,623.12
+P0128,2025-05-16,Camiseta,Vestuário,Sul,Loja Física,Cartão,1,68.14,68.14
+P0067,2025-05-16,Notebook,Eletrônicos,Nordeste,Loja Física,Pix,1,3346.93,3346.93
+P0278,2025-05-17,Mouse,Eletrônicos,Norte,Site,Boleto,4,76.85,307.4
+P0151,2025-05-17,Notebook,Eletrônicos,Norte,Loja Física,Boleto,3,3415.21,10245.63
+P0276,2025-05-20,Mouse,Eletrônicos,Centro-Oeste,Loja Física,Pix,3,81.57,244.71
+P0217,2025-05-20,Garrafa Térmica,Casa,Centro-Oeste,Marketplace,Pix,4,97.63,390.52
+P0347,2025-05-20,Monitor,Eletrônicos,Centro-Oeste,Loja Física,Pix,1,901.89,901.89
+P0335,2025-05-21,Cadeira,Móveis,Norte,Marketplace,Pix,1,677.37,677.37
+P0188,2025-05-22,Monitor,Eletrônicos,Centro-Oeste,Site,Boleto,1,993.6,993.6
+P0299,2025-05-26,Mouse,Eletrônicos,Norte,Marketplace,Cartão,3,78.4,235.2
+P0342,2025-05-27,Camiseta,Vestuário,Sudeste,Loja Física,Boleto,1,76.81,76.81
+P0161,2025-05-28,Monitor,Eletrônicos,Sudeste,Loja Física,Boleto,1,917.21,917.21
+P0310,2025-05-29,Luminária,Casa,Sul,Marketplace,Boleto,5,121.98,609.9
+P0291,2025-05-29,Cadeira,Móveis,Sul,Marketplace,Boleto,2,692.19,1384.38
+P0148,2025-05-30,Fone Bluetooth,Eletrônicos,Centro-Oeste,Marketplace,Cartão,3,233.7,701.1
+P0008,2025-05-31,Camiseta,Vestuário,Nordeste,Loja Física,Cartão,5,76.55,382.75
+P0279,2025-05-31,Mesa,Móveis,Nordeste,Marketplace,Pix,1,816.68,816.68
+P0248,2025-06-01,Mouse,Eletrônicos,Norte,Site,Boleto,5,85.97,429.85
+P0042,2025-06-01,Monitor,Eletrônicos,Norte,Site,Boleto,1,938.74,938.74
+P0345,2025-06-02,Mochila,Acessórios,Nordeste,Marketplace,Pix,5,173.75,868.75
+P0305,2025-06-04,Garrafa Térmica,Casa,Centro-Oeste,Marketplace,Pix,2,102.62,205.24
+P0103,2025-06-04,Camiseta,Vestuário,Norte,Site,Pix,5,75.62,378.1
+P0352,2025-06-04,Mochila,Acessórios,Nordeste,Loja Física,Cartão,5,170.91,854.55
+P0312,2025-06-07,Garrafa Térmica,Casa,Centro-Oeste,Loja Física,Pix,1,91.43,91.43
+P0025,2025-06-07,Monitor,Eletrônicos,Norte,Site,Cartão,1,888.57,888.57
+P0274,2025-06-08,Fone Bluetooth,Eletrônicos,Norte,Marketplace,Pix,4,255.44,1021.76
+P0215,2025-06-09,Calça Jeans,Vestuário,Norte,Loja Física,Cartão,3,172.1,516.3
+P0043,2025-06-10,Notebook,Eletrônicos,Norte,Loja Física,Cartão,1,3340.39,3340.39
+P0311,2025-06-10,Monitor,Eletrônicos,Norte,Marketplace,Pix,2,926.74,1853.48
+P0014,2025-06-11,Luminária,Casa,Norte,Loja Física,Pix,3,115.02,345.06
+P0047,2025-06-11,Cadeira,Móveis,Nordeste,Site,Pix,2,687.68,1375.36
+P0322,2025-06-13,Teclado,Eletrônicos,Nordeste,Loja Física,Pix,4,166.63,666.52
+P0199,2025-06-14,Mochila,Acessórios,Nordeste,Loja Física,Boleto,2,172.52,345.04
+P0075,2025-06-14,Garrafa Térmica,Casa,Sul,Loja Física,Pix,4,96.94,387.76
+P0159,2025-06-18,Camiseta,Vestuário,Nordeste,Loja Física,Boleto,5,70.72,353.6
+P0066,2025-06-19,Notebook,Eletrônicos,Nordeste,Site,Boleto,1,3494.83,3494.83
+P0086,2025-06-21,Mesa,Móveis,Sul,Site,Pix,5,816.75,4083.75
+P0260,2025-06-21,Teclado,Eletrônicos,Centro-Oeste,Loja Física,Cartão,2,143.09,286.18
+P0249,2025-06-22,Mochila,Acessórios,Sul,Site,Cartão,2,188.28,376.56
+P0302,2025-06-22,Mochila,Acessórios,Sudeste,Site,Cartão,1,195.05,195.05
+P0212,2025-06-23,Mesa,Móveis,Sul,Loja Física,Boleto,1,830.87,830.87
+P0177,2025-06-23,Mouse,Eletrônicos,Sul,Site,Boleto,4,88.5,354.0
+P0030,2025-06-23,Notebook,Eletrônicos,Norte,Site,Cartão,5,3324.44,16622.2
+P0241,2025-06-23,Camiseta,Vestuário,Nordeste,Site,Pix,5,66.94,334.7
+P0021,2025-06-24,Mouse,Eletrônicos,Centro-Oeste,Site,Boleto,3,81.54,244.62
+P0054,2025-06-25,Monitor,Eletrônicos,Nordeste,Site,Cartão,3,927.8,2783.4
+P0332,2025-06-25,Fone Bluetooth,Eletrônicos,Nordeste,Loja Física,Pix,3,243.57,730.71
+P0336,2025-06-26,Teclado,Eletrônicos,Sudeste,Marketplace,Pix,3,143.18,429.54
+P0209,2025-06-29,Fone Bluetooth,Eletrônicos,Nordeste,Loja Física,Cartão,3,222.3,666.9
+P0234,2025-06-30,Fone Bluetooth,Eletrônicos,Centro-Oeste,Site,Cartão,1,229.71,229.71
+P0271,2025-06-30,Fone Bluetooth,Eletrônicos,Sul,Loja Física,Pix,3,248.78,746.34
+P0011,2025-07-01,Monitor,Eletrônicos,Sudeste,Loja Física,Boleto,3,929.06,2787.18
+P0293,2025-07-04,Fone Bluetooth,Eletrônicos,Norte,Site,Boleto,5,225.18,1125.9
+P0284,2025-07-07,Mesa,Móveis,Sudeste,Loja Física,Cartão,4,911.13,3644.52
+P0235,2025-07-08,Cadeira,Móveis,Sudeste,Loja Física,Boleto,1,665.05,665.05
+P0186,2025-07-09,Monitor,Eletrônicos,Sul,Marketplace,Cartão,4,892.04,3568.16
+P0029,2025-07-11,Garrafa Térmica,Casa,Sul,Site,Cartão,5,94.26,471.3
+P0356,2025-07-11,Luminária,Casa,Norte,Loja Física,Cartão,5,127.93,639.65
+P0245,2025-07-12,Camiseta,Vestuário,Norte,Site,Boleto,3,73.51,220.53
+P0317,2025-07-17,Fone Bluetooth,Eletrônicos,Nordeste,Loja Física,Boleto,4,239.73,958.92
+P0277,2025-07-17,Mesa,Móveis,Centro-Oeste,Marketplace,Boleto,2,849.48,1698.96
+P0269,2025-07-18,Mesa,Móveis,Nordeste,Site,Pix,3,883.64,2650.92
+P0090,2025-07-19,Luminária,Casa,Norte,Loja Física,Cartão,5,124.75,623.75
+P0220,2025-07-22,Mochila,Acessórios,Nordeste,Site,Cartão,1,165.82,165.82
+P0048,2025-07-22,Teclado,Eletrônicos,Sudeste,Site,Pix,3,148.97,446.91
+P0308,2025-07-24,Teclado,Eletrônicos,Sudeste,Marketplace,Cartão,3,150.36,451.08
+P0017,2025-07-24,Mesa,Móveis,Sul,Loja Física,Pix,2,917.64,1835.28
+P0350,2025-07-25,Camiseta,Vestuário,Sul,Marketplace,Pix,1,66.47,66.47
+P0123,2025-07-25,Garrafa Térmica,Casa,Sudeste,Site,Cartão,1,96.17,96.17
+P0213,2025-07-25,Mouse,Eletrônicos,Sudeste,Site,Boleto,2,83.08,166.16
+P0198,2025-07-25,Luminária,Casa,Centro-Oeste,Site,Cartão,1,119.81,119.81
+P0141,2025-07-25,Fone Bluetooth,Eletrônicos,Nordeste,Marketplace,Pix,1,228.34,228.34
+P0112,2025-07-28,Garrafa Térmica,Casa,Centro-Oeste,Loja Física,Boleto,5,98.92,494.6
+P0295,2025-07-29,Mochila,Acessórios,Nordeste,Loja Física,Cartão,1,169.21,169.21
+P0164,2025-07-30,Mochila,Acessórios,Sudeste,Loja Física,Pix,2,170.5,341.0
+P0061,2025-07-31,Notebook,Eletrônicos,Nordeste,Marketplace,Boleto,2,3321.12,6642.24
+P0340,2025-07-31,Mesa,Móveis,Sul,Site,Boleto,4,795.67,3182.68
+P0329,2025-07-31,Calça Jeans,Vestuário,Norte,Marketplace,Boleto,2,157.71,315.42
+P0175,2025-08-01,Teclado,Eletrônicos,Norte,Marketplace,Boleto,2,141.17,282.34
+P0115,2025-08-06,Calça Jeans,Vestuário,Centro-Oeste,Marketplace,Pix,5,155.67,778.35
+P0210,2025-08-08,Fone Bluetooth,Eletrônicos,Norte,Site,Boleto,5,234.18,1170.9
+P0094,2025-08-08,Teclado,Eletrônicos,Nordeste,Marketplace,Pix,4,142.36,569.44
+P0106,2025-08-11,Teclado,Eletrônicos,Nordeste,Loja Física,Boleto,5,161.17,805.85
+P0068,2025-08-12,Mochila,Acessórios,Norte,Site,Pix,5,168.93,844.65
+P0145,2025-08-13,Calça Jeans,Vestuário,Norte,Site,Boleto,4,150.31,601.24
+P0051,2025-08-13,Fone Bluetooth,Eletrônicos,Norte,Site,Boleto,3,234.11,702.33
+P0083,2025-08-15,Mochila,Acessórios,Norte,Marketplace,Cartão,5,177.89,889.45
+P0126,2025-08-15,Cadeira,Móveis,Nordeste,Loja Física,Boleto,5,700.96,3504.8
+P0290,2025-08-16,Mouse,Eletrônicos,Sudeste,Loja Física,Boleto,3,82.15,246.45
+P0252,2025-08-18,Monitor,Eletrônicos,Centro-Oeste,Site,Pix,5,862.44,4312.2
+P0238,2025-08-19,Mouse,Eletrônicos,Sudeste,Loja Física,Boleto,3,86.17,258.51
+P0296,2025-08-19,Garrafa Térmica,Casa,Norte,Loja Física,Boleto,5,92.64,463.2
+P0196,2025-08-20,Fone Bluetooth,Eletrônicos,Sudeste,Loja Física,Boleto,2,246.39,492.78
+P0203,2025-08-21,Luminária,Casa,Nordeste,Marketplace,Pix,4,124.41,497.64
+P0201,2025-08-21,Fone Bluetooth,Eletrônicos,Sudeste,Loja Física,Boleto,5,227.43,1137.15
+P0184,2025-08-21,Mesa,Móveis,Sul,Marketplace,Boleto,5,839.0,4195.0
+P0082,2025-08-22,Teclado,Eletrônicos,Norte,Loja Física,Pix,4,154.02,616.08
+P0321,2025-08-22,Teclado,Eletrônicos,Sul,Marketplace,Boleto,5,159.44,797.2
+P0149,2025-08-22,Fone Bluetooth,Eletrônicos,Norte,Loja Física,Boleto,2,225.72,451.44
+P0224,2025-08-24,Mouse,Eletrônicos,Norte,Marketplace,Boleto,3,80.97,242.91
+P0143,2025-08-25,Luminária,Casa,Nordeste,Loja Física,Pix,1,114.0,114.0
+P0037,2025-08-25,Monitor,Eletrônicos,Norte,Site,Cartão,1,891.81,891.81
+P0166,2025-08-25,Camiseta,Vestuário,Sudeste,Marketplace,Pix,3,69.55,208.65
+P0088,2025-08-27,Luminária,Casa,Centro-Oeste,Marketplace,Boleto,1,114.37,114.37
+P0309,2025-08-27,Mouse,Eletrônicos,Sul,Site,Cartão,3,79.35,238.05
+P0063,2025-08-29,Monitor,Eletrônicos,Centro-Oeste,Marketplace,Pix,2,945.59,1891.18
+P0155,2025-08-31,Calça Jeans,Vestuário,Sul,Marketplace,Cartão,4,157.08,628.32
+P0084,2025-09-01,Garrafa Térmica,Casa,Nordeste,Loja Física,Pix,3,98.83,296.49
+P0331,2025-09-02,Fone Bluetooth,Eletrônicos,Sul,Marketplace,Boleto,4,223.15,892.6
+P0169,2025-09-05,Mouse,Eletrônicos,Nordeste,Loja Física,Pix,2,78.48,156.96
+P0107,2025-09-05,Garrafa Térmica,Casa,Norte,Marketplace,Pix,4,99.95,399.8
+P0039,2025-09-06,Garrafa Térmica,Casa,Sudeste,Site,Pix,2,100.54,201.08
+P0026,2025-09-06,Mouse,Eletrônicos,Sul,Loja Física,Pix,5,83.4,417.0
+P0091,2025-09-07,Monitor,Eletrônicos,Sudeste,Marketplace,Pix,3,890.76,2672.28
+P0110,2025-09-07,Monitor,Eletrônicos,Nordeste,Marketplace,Boleto,3,942.89,2828.67
+P0160,2025-09-07,Fone Bluetooth,Eletrônicos,Sul,Loja Física,Boleto,1,234.32,234.32
+P0105,2025-09-08,Mouse,Eletrônicos,Centro-Oeste,Loja Física,Cartão,4,85.9,343.6
+P0152,2025-09-08,Teclado,Eletrônicos,Nordeste,Marketplace,Boleto,4,150.93,603.72
+P0139,2025-09-09,Mouse,Eletrônicos,Nordeste,Marketplace,Boleto,4,78.05,312.2
+P0289,2025-09-09,Monitor,Eletrônicos,Sudeste,Marketplace,Cartão,1,847.54,847.54
+P0113,2025-09-09,Garrafa Térmica,Casa,Sul,Marketplace,Boleto,1,88.81,88.81
+P0135,2025-09-10,Garrafa Térmica,Casa,Centro-Oeste,Loja Física,Pix,1,96.49,96.49
+P0183,2025-09-10,Mouse,Eletrônicos,Norte,Site,Pix,1,76.61,76.61
+P0176,2025-09-14,Cadeira,Móveis,Centro-Oeste,Marketplace,Boleto,2,624.72,1249.44
+P0354,2025-09-15,Calça Jeans,Vestuário,Nordeste,Marketplace,Boleto,3,164.87,494.61
+P0323,2025-09-17,Fone Bluetooth,Eletrônicos,Norte,Marketplace,Pix,5,229.63,1148.15
+P0236,2025-09-17,Luminária,Casa,Sudeste,Marketplace,Boleto,4,121.54,486.16
+P0268,2025-09-17,Fone Bluetooth,Eletrônicos,Centro-Oeste,Site,Boleto,5,212.35,1061.75
+P0257,2025-09-20,Teclado,Eletrônicos,Sul,Marketplace,Pix,4,140.2,560.8
+P0032,2025-09-21,Monitor,Eletrônicos,Sul,Loja Física,Cartão,3,924.33,2772.99
+P0256,2025-09-22,Mouse,Eletrônicos,Sul,Marketplace,Pix,3,74.67,224.01
+P0360,2025-09-24,Garrafa Térmica,Casa,Norte,Marketplace,Cartão,1,97.74,97.74
+P0197,2025-09-24,Cadeira,Móveis,Sudeste,Site,Pix,4,664.91,2659.64
+P0157,2025-09-27,Garrafa Térmica,Casa,Centro-Oeste,Loja Física,Cartão,1,98.38,98.38
+P0358,2025-09-28,Calça Jeans,Vestuário,Norte,Site,Cartão,3,149.2,447.6
+P0254,2025-09-28,Luminária,Casa,Norte,Site,Pix,2,126.08,252.16
+P0286,2025-09-29,Mesa,Móveis,Nordeste,Site,Cartão,4,824.76,3299.04
+P0024,2025-09-29,Notebook,Eletrônicos,Sudeste,Site,Pix,5,3109.97,15549.85
+P0214,2025-09-29,Monitor,Eletrônicos,Nordeste,Site,Pix,4,888.46,3553.84
+P0104,2025-09-30,Luminária,Casa,Nordeste,Site,Pix,3,111.72,335.16
+P0093,2025-10-01,Notebook,Eletrônicos,Sudeste,Site,Boleto,4,3247.05,12988.2
+P0117,2025-10-02,Calça Jeans,Vestuário,Centro-Oeste,Marketplace,Boleto,2,152.1,304.2
+P0179,2025-10-02,Mouse,Eletrônicos,Nordeste,Loja Física,Pix,4,78.32,313.28
+P0028,2025-10-04,Calça Jeans,Vestuário,Centro-Oeste,Loja Física,Boleto,2,165.45,330.9
+P0132,2025-10-06,Monitor,Eletrônicos,Sul,Site,Cartão,2,958.81,1917.62
+P0153,2025-10-06,Luminária,Casa,Sul,Loja Física,Cartão,4,128.31,513.24
+P0359,2025-10-08,Fone Bluetooth,Eletrônicos,Sul,Site,Pix,2,232.68,465.36
+P0027,2025-10-09,Teclado,Eletrônicos,Norte,Marketplace,Cartão,3,150.66,451.98
+P0202,2025-10-10,Calça Jeans,Vestuário,Sul,Marketplace,Pix,2,158.21,316.42
+P0052,2025-10-11,Cadeira,Móveis,Sul,Marketplace,Cartão,1,695.65,695.65
+P0020,2025-10-11,Notebook,Eletrônicos,Norte,Marketplace,Boleto,1,3293.04,3293.04
+P0319,2025-10-13,Mesa,Móveis,Norte,Marketplace,Boleto,2,809.07,1618.14
+P0181,2025-10-15,Mesa,Móveis,Sudeste,Loja Física,Pix,5,812.11,4060.55
+P0124,2025-10-16,Cadeira,Móveis,Sudeste,Loja Física,Pix,1,701.37,701.37
+P0171,2025-10-17,Camiseta,Vestuário,Centro-Oeste,Marketplace,Cartão,1,74.6,74.6
+P0033,2025-10-20,Mochila,Acessórios,Centro-Oeste,Marketplace,Cartão,4,172.6,690.4
+P0154,2025-10-20,Luminária,Casa,Centro-Oeste,Site,Pix,2,126.84,253.68
+P0326,2025-10-23,Monitor,Eletrônicos,Sul,Loja Física,Boleto,1,912.03,912.03
+P0101,2025-10-24,Notebook,Eletrônicos,Centro-Oeste,Marketplace,Boleto,3,3238.81,9716.43
+P0200,2025-10-27,Fone Bluetooth,Eletrônicos,Norte,Loja Física,Pix,3,225.62,676.86
+P0118,2025-10-29,Fone Bluetooth,Eletrônicos,Sudeste,Site,Pix,5,222.01,1110.05
+P0227,2025-10-29,Luminária,Casa,Nordeste,Loja Física,Pix,5,111.91,559.55
+P0301,2025-10-31,Mochila,Acessórios,Norte,Loja Física,Boleto,2,170.53,341.06
+P0046,2025-11-01,Notebook,Eletrônicos,Norte,Loja Física,Boleto,5,3224.85,16124.25
+P0019,2025-11-02,Mouse,Eletrônicos,Centro-Oeste,Loja Física,Pix,4,84.76,339.04
+P0314,2025-11-02,Camiseta,Vestuário,Sudeste,Site,Pix,4,73.01,292.04
+P0280,2025-11-05,Calça Jeans,Vestuário,Centro-Oeste,Marketplace,Pix,4,163.58,654.32
+P0136,2025-11-06,Cadeira,Móveis,Norte,Loja Física,Cartão,1,656.1,656.1
+P0125,2025-11-07,Mochila,Acessórios,Norte,Marketplace,Pix,5,185.87,929.35
+P0100,2025-11-07,Mochila,Acessórios,Sul,Marketplace,Cartão,1,203.04,203.04
+P0172,2025-11-07,Mesa,Móveis,Norte,Marketplace,Boleto,2,938.07,1876.14
+P0283,2025-11-08,Camiseta,Vestuário,Sudeste,Site,Boleto,4,69.97,279.88
+P0109,2025-11-09,Camiseta,Vestuário,Centro-Oeste,Marketplace,Cartão,4,73.62,294.48
+P0240,2025-11-09,Teclado,Eletrônicos,Nordeste,Marketplace,Pix,3,158.7,476.1
+P0318,2025-11-09,Mouse,Eletrônicos,Centro-Oeste,Marketplace,Pix,2,92.97,185.94
+P0226,2025-11-13,Garrafa Térmica,Casa,Sudeste,Site,Pix,3,95.84,287.52
+P0060,2025-11-14,Calça Jeans,Vestuário,Sul,Site,Cartão,2,184.57,369.14
+P0327,2025-11-14,Luminária,Casa,Sul,Site,Boleto,2,136.27,272.54
+P0165,2025-11-14,Camiseta,Vestuário,Norte,Site,Cartão,2,75.57,151.14
+P0049,2025-11-15,Mochila,Acessórios,Sul,Loja Física,Pix,1,181.13,181.13
+P0300,2025-11-17,Cadeira,Móveis,Norte,Loja Física,Cartão,5,705.76,3528.8
+P0085,2025-11-17,Monitor,Eletrônicos,Nordeste,Site,Pix,3,962.65,2887.95
+P0144,2025-11-17,Garrafa Térmica,Casa,Norte,Site,Pix,1,97.73,97.73
+P0079,2025-11-19,Mochila,Acessórios,Centro-Oeste,Marketplace,Pix,2,201.19,402.38
+P0055,2025-11-21,Luminária,Casa,Nordeste,Site,Boleto,3,120.15,360.45
+P0180,2025-11-23,Mesa,Móveis,Centro-Oeste,Site,Boleto,1,943.68,943.68
+P0001,2025-11-24,Mouse,Eletrônicos,Sul,Site,Cartão,1,89.74,89.74
+P0023,2025-11-24,Fone Bluetooth,Eletrônicos,Nordeste,Site,Boleto,5,236.43,1182.15
+P0168,2025-11-24,Luminária,Casa,Nordeste,Site,Pix,3,128.7,386.1
+P0264,2025-11-24,Mochila,Acessórios,Centro-Oeste,Loja Física,Boleto,4,180.8,723.2
+P0304,2025-11-24,Notebook,Eletrônicos,Norte,Marketplace,Boleto,4,3671.1,14684.4
+P0225,2025-11-24,Luminária,Casa,Sudeste,Marketplace,Cartão,3,121.62,364.86
+P0346,2025-11-25,Fone Bluetooth,Eletrônicos,Sul,Loja Física,Pix,5,248.16,1240.8
+P0303,2025-11-25,Mochila,Acessórios,Norte,Marketplace,Boleto,3,199.1,597.3
+P0004,2025-11-29,Calça Jeans,Vestuário,Centro-Oeste,Loja Física,Pix,5,170.57,852.85
+P0237,2025-11-30,Monitor,Eletrônicos,Norte,Site,Cartão,3,988.33,2964.99
+P0038,2025-11-30,Fone Bluetooth,Eletrônicos,Sul,Site,Pix,1,267.04,267.04
+P0138,2025-11-30,Garrafa Térmica,Casa,Norte,Marketplace,Boleto,3,97.37,292.11
+P0337,2025-12-02,Cadeira,Móveis,Norte,Marketplace,Boleto,4,669.87,2679.48
+P0211,2025-12-03,Calça Jeans,Vestuário,Nordeste,Loja Física,Pix,3,159.78,479.34
+P0173,2025-12-04,Camiseta,Vestuário,Sudeste,Marketplace,Pix,2,77.15,154.3
+P0244,2025-12-06,Luminária,Casa,Sudeste,Marketplace,Boleto,2,131.57,263.14
+P0071,2025-12-06,Mouse,Eletrônicos,Centro-Oeste,Marketplace,Pix,3,86.5,259.5
+P0204,2025-12-07,Cadeira,Móveis,Centro-Oeste,Site,Cartão,3,752.95,2258.85
+P0207,2025-12-07,Luminária,Casa,Norte,Marketplace,Pix,1,139.31,139.31
+P0092,2025-12-09,Camiseta,Vestuário,Centro-Oeste,Site,Boleto,4,78.31,313.24
+P0267,2025-12-09,Mouse,Eletrônicos,Sudeste,Loja Física,Boleto,5,92.96,464.8
+P0223,2025-12-09,Mesa,Móveis,Sudeste,Marketplace,Cartão,1,902.88,902.88
+P0246,2025-12-10,Luminária,Casa,Nordeste,Marketplace,Cartão,5,126.73,633.65
+P0070,2025-12-10,Monitor,Eletrônicos,Nordeste,Loja Física,Pix,3,961.32,2883.96
+P0137,2025-12-11,Cadeira,Móveis,Sul,Marketplace,Boleto,5,650.36,3251.8
+P0178,2025-12-12,Luminária,Casa,Centro-Oeste,Site,Pix,5,126.82,634.1
+P0045,2025-12-12,Monitor,Eletrônicos,Norte,Site,Boleto,4,912.88,3651.52
+P0251,2025-12-13,Calça Jeans,Vestuário,Norte,Marketplace,Boleto,2,185.78,371.56
+P0167,2025-12-13,Fone Bluetooth,Eletrônicos,Nordeste,Loja Física,Pix,2,231.46,462.92
+P0073,2025-12-13,Calça Jeans,Vestuário,Nordeste,Marketplace,Boleto,2,175.99,351.98
+P0285,2025-12-14,Garrafa Térmica,Casa,Sudeste,Loja Física,Cartão,3,100.5,301.5
+P0219,2025-12-14,Mochila,Acessórios,Nordeste,Site,Cartão,4,195.24,780.96
+P0253,2025-12-14,Mochila,Acessórios,Nordeste,Marketplace,Boleto,4,193.21,772.84
+P0232,2025-12-15,Mochila,Acessórios,Nordeste,Site,Pix,5,188.9,944.5
+P0187,2025-12-18,Mesa,Móveis,Nordeste,Site,Pix,5,977.0,4885.0
+P0013,2025-12-19,Fone Bluetooth,Eletrônicos,Sudeste,Site,Cartão,2,255.74,511.48
+P0325,2025-12-19,Camiseta,Vestuário,Nordeste,Loja Física,Boleto,1,76.77,76.77
+P0250,2025-12-21,Mochila,Acessórios,Sudeste,Marketplace,Pix,2,201.28,402.56
+P0087,2025-12-22,Teclado,Eletrônicos,Centro-Oeste,Marketplace,Boleto,2,150.7,301.4
+P0272,2025-12-23,Garrafa Térmica,Casa,Sudeste,Loja Física,Pix,2,107.71,215.42
+P0072,2025-12-23,Cadeira,Móveis,Centro-Oeste,Loja Física,Pix,5,660.14,3300.7
+P0338,2025-12-23,Cadeira,Móveis,Norte,Site,Cartão,2,658.11,1316.22
+P0041,2025-12-23,Calça Jeans,Vestuário,Centro-Oeste,Site,Cartão,5,177.28,886.4
+P0089,2025-12-23,Notebook,Eletrônicos,Sudeste,Marketplace,Pix,5,3389.86,16949.3
+P0328,2025-12-25,Mouse,Eletrônicos,Nordeste,Marketplace,Cartão,2,79.75,159.5
+P0170,2025-12-25,Cadeira,Móveis,Centro-Oeste,Marketplace,Cartão,1,755.68,755.68
+P0182,2025-12-25,Cadeira,Móveis,Sudeste,Site,Pix,4,658.95,2635.8
+P0111,2025-12-26,Cadeira,Móveis,Sul,Site,Cartão,5,646.98,3234.9
+P0334,2025-12-27,Monitor,Eletrônicos,Nordeste,Loja Física,Boleto,4,943.55,3774.2
+P0009,2025-12-27,Mouse,Eletrônicos,Nordeste,Site,Cartão,1,88.63,88.63
+P0261,2025-12-28,Garrafa Térmica,Casa,Sudeste,Site,Pix,4,104.49,417.96
