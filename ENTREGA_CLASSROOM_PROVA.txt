@@ -1,0 +1,14 @@
+Projeto: Dashboard de Análise de Vendas
+Aluno: Rafael Custódio
+Participantes: Projeto individual
+
+Descrição da entrega:
+Nesta entrega final, dei continuidade ao projeto de BI desenvolvido ao longo das ACs, consolidando as análises de vendas em uma visão executiva no Power BI. A funcionalidade final reúne os principais indicadores do projeto, incluindo faturamento total, quantidade vendida, total de pedidos, ticket médio, total de produtos, faturamento por mês, ranking de produtos por faturamento, análise por região, filtros interativos e tabela detalhada. Além da funcionalidade final do dashboard, também foi elaborado o Modelo Entidade-Relacionamento (MER) do projeto, estruturado em modelo dimensional com tabela fato de vendas e dimensões de data, produto, categoria, região, canal de venda e forma de pagamento.
+
+Link do vídeo:
+
+Board GitHub:
+https://github.com/users/orafaelcustodio/projects/1/views/1
+
+Projeto:
+https://github.com/orafaelcustodio/projeto-software-bi-vendas
